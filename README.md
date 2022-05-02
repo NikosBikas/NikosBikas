@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -8,8 +8,8 @@
 class FullStackDeveloper:
 
     def __init__(self):
-        self.first_name = "Abdelaali"
-        self.last_name = "ES SALMI"
+        self.first_name = "Nikolaos"
+        self.last_name = "Bikas"
         self.role = "FullStack Developer"
 
     def say_hi(self):
@@ -18,18 +18,17 @@ class FullStackDeveloper:
 
 me = FullStackDeveloper()
 me.say_hi()
+```
 
-<!--
-**ThrillSeeker01/thrillseeker01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- I'm a passionate self-taught Full Stack Web Developer 🚀 from Greece. -->
 
-Here are some ideas to get you started:
+<!-- ## Pharmacy Student :mortar_board:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" width="500" src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" />
+
+currently, I'm studying programming and computer science and learning some tools that allow me to analyze complex systems.
+
+
+
+
+
