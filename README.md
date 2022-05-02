@@ -8,7 +8,7 @@
 class FullStackDeveloper:
 
     def __init__(self):
-        self.first_name = "Nikolaos"
+        self.first_name = "Nikos"
         self.last_name = "Bikas"
         self.role = "FullStack Developer"
 
