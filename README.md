@@ -20,6 +20,10 @@ me = FullStackDeveloper()
 me.say_hi()
 ```
 
+#### 📊  GitHub Stats  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thrillseeker01&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thrillseeker01)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- I'm a passionate self-taught Full Stack Web Developer 🚀 from Greece. -->
 
 <!-- ## Pharmacy Student :mortar_board:
@@ -28,8 +32,7 @@ me.say_hi()
 
 currently, I'm studying programming and computer science and learning some tools that allow me to analyze complex systems.
 
-#### 📊  GitHub Stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thrillseeker01)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
