@@ -20,9 +20,9 @@ me = FullStackDeveloper()
 me.say_hi()
 ```
 
-#### 📊  GitHub Stats  
+#### 📊  GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thrillseeker01&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thrillseeker01)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thrillseeker01&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- I'm a passionate self-taught Full Stack Web Developer 🚀 from Greece. -->
 
