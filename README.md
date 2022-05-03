@@ -28,6 +28,9 @@ me.say_hi()
 
 currently, I'm studying programming and computer science and learning some tools that allow me to analyze complex systems.
 
+#### 📊  GitHub Stats  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thrillseeker01)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
